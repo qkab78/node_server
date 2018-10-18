@@ -1,3 +1,3 @@
 # node_server
 
-Creat a node server from scratch
+Create a node server from scratch
